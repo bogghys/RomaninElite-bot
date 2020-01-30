@@ -1,2 +1,0 @@
-# RomaninElite-bot
-bot heroku
